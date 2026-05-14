@@ -1,16 +1,17 @@
-## Hi there 👋
+# ¡Hola, soy Dayana! 👋
 
-<!--
-**diane2006/diane2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Estudiante de Licenciatura en Desarrollo y Gestión de Software  
+ Apasionada por UI/UX y diseño gráfico  
+ Aficionada a tomar fotos, filmar y editar videos  
+Amante del fútbol y la Fórmula 1  
 
-Here are some ideas to get you started:
+##  Lenguajes 
+- C  
+- Java  
+- Python  
+- Arduino  
+- HTML & CSS  
+- JavaScript  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Proyectos destacados
+- Kanneia - IAPersonal 
